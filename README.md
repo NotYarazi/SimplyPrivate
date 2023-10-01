@@ -1,5 +1,6 @@
 SimplyPrivate
 NOW IN TURBOMODE!
+NEXT UPDATE (2.1): 8 of Octuber, 2023 (2023/8/10)
 
 End-User License Agreement (EULA)
 The SimplyPrivate Browser application (the "Software") is licensed, not sold, to you by the creator of the application, UmaEra. The creator of the application retains all rights not expressly granted to you in this agreement. This agreement does not grant you any intellectual property rights over the Software.
