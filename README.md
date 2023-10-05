@@ -1,4 +1,6 @@
+![sweetlyprivate-3](https://github.com/NotYarazi/SimplyPrivate/assets/124608386/073a0223-e225-43ba-8d4c-e08e3bc606d5)
 SimplyPrivate
+
 NOW IN TURBOMODE!
 
 
@@ -27,4 +29,4 @@ Contact
 
 If you have any questions about this agreement, please contact us through our GitHub repository at [NotYarazi/SimplyPrivate].
 -
-Thank you for using SimplyPrivate Browser!
+Thank you for using SimplyPrivate Browser! 💛💀👻
