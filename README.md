@@ -5,7 +5,7 @@ A simply working browser that resets all you do with exit button on your device 
 --
 before you install you have to read ["Eula.md"](https://github.com/NotYarazi/SimplyPrivate/blob/all/EULA.md).
 
- ### V3.0 comming soon with security, features and personalized stuff  :shipit:
+ ### [V3.0](https://github.com/NotYarazi/SimplyPrivate/discussions/2) comming soon with security, features and personalized stuff  :shipit:
 
 **Thank you for using SimplyPrivate Browser! 💛💀👻**
 --
