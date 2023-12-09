@@ -1,11 +1,12 @@
-![7dred-4](https://github.com/NotYarazi/SimplyPrivate/assets/124608386/fd89db3e-530b-46c9-b528-7eb6f2281723) 
-SimplyPrivate Browser
---
+![Sp](https://github.com/NotYarazi/SimplyPrivate/assets/124608386/f9cc0008-84a2-432a-aabc-8773346d2784) 
+# SimplyPrivate
+
 A simply working browser that resets all you do with exit button on your device and internet service provider!
 --
-before you install you have to read ["Eula.md"](https://github.com/NotYarazi/SimplyPrivate/blob/all/EULA.md).
+## Version 3.0 JUST CAME OUT! but before you install you have to read ["Eula.md"](https://github.com/NotYarazi/SimplyPrivate/blob/all/EULA.md).
 
- ### [V3.0](https://github.com/NotYarazi/SimplyPrivate/discussions/2) comming soon with security, features and personalized stuff  :shipit:
+
+ ### [V3.1]comming soon with security, features and personalized stuff  
 
 --
 How to download
