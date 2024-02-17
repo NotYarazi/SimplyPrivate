@@ -8,13 +8,13 @@ A simply working browser that resets all you do with exit button on your device 
 
 
 
- ### [V3.3]comming soon with security, features and personalized stuff  
+ ### [V3.4] comming soon with themes, new desing and more features
 
 --
 ### How to download
-- 1 Click on "Releases" button in the right sidebar and click in ***"simplyprivate-3.2.0.exe"***
+- 1 Click on "Releases" button in the right sidebar and click in ***"simplyprivate-3.3.0.exe"***
 
-- 2 go to the your downloads folder and open the file nammed ***"simplyprivate-3.2.0.exe"***
+- 2 go to the your downloads folder and open the file nammed ***"simplyprivate-3.3.0.exe"***
 
 - 3 wait until the download is complete and enjoy your new private browser
 
