@@ -1,0 +1,3 @@
+function crb(){
+  location.reload();
+}
