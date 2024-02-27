@@ -1,8 +1,6 @@
-![Sp](https://github.com/NotYarazi/SimplyPrivate/assets/124608386/f9cc0008-84a2-432a-aabc-8773346d2784) 
+![Plant-7](https://github.com/NotYarazi/SimplyPrivate/assets/124608386/4fbb53de-3b48-45f9-a01a-98f01aeafee8)  
 # SimplyPrivate
-
 A simply working browser that resets all you do with exit button on your device and internet service provider!
---
 ## Version 3.4 OF SIMPLYPRIVATE JUST CAME OUT! but before you install you have to read ["Eula.md"](https://github.com/NotYarazi/SimplyPrivate/blob/all/EULA.md).
 
 
@@ -17,5 +15,5 @@ A simply working browser that resets all you do with exit button on your device 
 
 - 3 wait until the download is complete and enjoy your new private browser
 
-**Thank you for using ✨SimplyPrivate Browser! 💛**
+**Thank you for using 💚SimplyPrivate Browser! 💚**
 --
