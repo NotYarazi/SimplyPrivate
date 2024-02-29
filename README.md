@@ -4,8 +4,12 @@ A simply working browser that resets all you do with exit button on your device 
 ## Version 3.4 OF SIMPLYPRIVATE JUST CAME OUT! but before you install you have to read ["Eula.md"](https://github.com/NotYarazi/SimplyPrivate/blob/all/EULA.md).
 
 
-
- ### [V3.5] comming soon with new themes, desing and more features!
+#News:
+[V3.5] comming soon with new themes, desing and more features like:
+- completely overhaul adn redesign the tab system
+- more themes
+- more optimization
+- redesign more things...
 
 --
 ### How to download
