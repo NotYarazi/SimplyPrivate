@@ -1,6 +1,6 @@
 ![Plant-7](https://github.com/NotYarazi/SimplyPrivate/assets/124608386/4fbb53de-3b48-45f9-a01a-98f01aeafee8)  
 # SimplyPrivate
-A simply working browser that resets all you do with exit button on your device
+"A browser that resets everything upon exit."
 ## Version 3.4 OF SIMPLYPRIVATE JUST CAME OUT! but before you install you have to read ["Eula.md"](https://github.com/NotYarazi/SimplyPrivate/blob/all/EULA.md).
 
 
