@@ -11,7 +11,6 @@ A simply working browser that resets all you do with exit button on your device 
 - more optimization
 - redesign more things...
 
---
 ### How to download
 - 1 Click on "Releases" button in the right sidebar and click in ***"simplyprivate v3.4 [New]"***
 
