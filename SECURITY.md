@@ -16,7 +16,7 @@ currently being supported with security updates.
 | 3.2.x           | :x:                  | 78MB   |
 | 3.2.x           | :x:                  | 78MB   |
 3.3.x  | :x:   | 84MB   |
-3.4.x  | :x:   | 82MB   | 
+3.4.x  | ✅:   | 82MB   | 
 3.5.x  | :white_check_mark:   | 79MB   | 
 
 ## Warnings:
