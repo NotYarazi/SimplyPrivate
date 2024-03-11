@@ -17,7 +17,7 @@ currently being supported with security updates.
 | 3.2.x           | :x:                  | 78MB   |
 3.3.x  | :x:   | 84MB   |
 3.4.x  | :x:   | 82MB   | 
-3.4.x  | :white_check_mark:   | 79MB   | 
+3.5.x  | :white_check_mark:   | 79MB   | 
 
 ## Warnings:
 The first versions of SimplyPrivate is very old and outdated. It is a significant risk to run this browser on your PC because it lacks the minimum recommended security measures, it can become vulnerable if used on public networks or when accessing malicious websites and many websites may be unavailable.
