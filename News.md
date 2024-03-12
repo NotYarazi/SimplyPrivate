@@ -1,4 +1,3 @@
-## 📰 NEWS 07.may 14:40
-### 🔴 Version 3.5 will be defined as a bug fix update but also with a new engine {forge} for plugins
-(the engine won't be used yet)
+## 📰 NEWS 12.may 12:00
+### 🔴 Version 3.5 it's not ready yet, but you can still donwload qnd use the normal version
 
