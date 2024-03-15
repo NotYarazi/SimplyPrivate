@@ -1,11 +1,11 @@
 ![Plant-7](https://github.com/NotYarazi/SimplyPrivate/assets/124608386/4fbb53de-3b48-45f9-a01a-98f01aeafee8)  
 # SimplyPrivate
-"A browser that resets everything upon exit."
+"A browser that resets everything upon exit.
+--
 ## WE REACHED +500 DONWLOADS
-
 thanks for all 💖🍃
-
-## Version 3.5 OF SIMPLYPRIVATE JUST CAME OUT! but before you install you have to read ["Eula.md"](https://github.com/NotYarazi/SimplyPrivate/blob/all/EULA.md).
+--
+### Version 3.5 OF SIMPLYPRIVATE JUST CAME OUT! but before you install you have to read ["Eula.md"](https://github.com/NotYarazi/SimplyPrivate/blob/all/EULA.md).
 
 
 # News:
