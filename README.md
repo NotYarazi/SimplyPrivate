@@ -6,11 +6,7 @@
 
 
 # News:
-[V3.6] comming soon with new security feature, desing and more like:
-- completely overhaul adn redesign the tab system
-- more themes
-- more optimization
-- redesign more things...
+🟢 version 3.6 is now in development
 
 ### How to download
 - 1 Click on "Releases" button in the right sidebar and click in ***"simplyprivate v3.5 [New]"***
