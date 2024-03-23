@@ -16,4 +16,5 @@
 - 3 wait until the download is complete and enjoy your new private browser
 
 **Thank you for using 💚SimplyPrivate Browser! 💚**
+and if you have any problem you can send an e-mail at "umaera.dev@gmail.com"
 --
