@@ -15,6 +15,7 @@ Please note that this project is **NOT** open-source, but we highly appreciate y
 To contact the creator:
 - you can send a message on [Discord](discord.com/channels/@me) with the username: umaera or umaera#0.
 - you can send a message on [Discussions](https://github.com/NotYarazi/SimplyPrivate/discussions/categories/communication).
+- you can send an e-mail "umaera.dev@gmail.com".
 
 ## License
 
