@@ -1,1 +1,8 @@
-| release 3.5 | ready! | 14-03-2024 |
+| release name  | release state |  release date  |
+| ------------- | ------------- | -------------- |
+| 3.5 [latest]  | avaliable!    | 14-03-2024     |
+| 3.4           | avaliable!    | 05-03-2024     |
+| 3.3           | avaliable!    | 17-02-2024     |
+| 3.2           | avaliable!    | 19-01-2024     |
+| 3.1           | avaliable!    | 14-01-2024     |
+| 3.0           | deleted       | 08-01-2024     |
