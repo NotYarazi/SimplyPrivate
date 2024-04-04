@@ -2,7 +2,8 @@
 --
 >The SimplyPrivate Browser application (the "Software") is licensed, not sold, to you by the creator of the application, UmaEra.
 >The creator of the application retains all rights not expressly granted to you in this agreement. This agreement does not grant you any intellectual property rights over the Software.
-
+>
+>Any distribution of the original or modified code, or distribution of modified program, without authorization may lead to legal action and copyright infringement.
 1-Restrictions
 
 >You may distribute SimplyPrivate Browser only through the official GitHub link provided by the application's creator. It is not permitted to modify or distribute modified versions of the Software.
