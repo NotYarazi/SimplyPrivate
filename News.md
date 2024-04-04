@@ -1,3 +1,7 @@
+## 📰 NEWS 04.april 13:41h
+### 🔴 the development of version 3.6 was delayed by creator's personal issues.
+
+
 ## 📰 NEWS 23.march 21:00h
 ### if you found any critical problem or you have an idea for SimplyPrivate you can send-us an e-mail at: "umaera.dev@gmail.com"
 
