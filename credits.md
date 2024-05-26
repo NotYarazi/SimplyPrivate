@@ -1,18 +1,14 @@
 # All the amazing people envolved in this project!
 
 > Desing/UI:
-> - Rekalta
-> - OutlastDara
+> - UmaEra
+> - DevilWolf
 
 > Animations:
 > - UmaEra
-> - Rekalta
-> - ShiTist
-> - Driama6
+> - Dhummy
 
 > Programming:
 > - Zeeva
 > - Dhummy
 > - UmaEra
-> - ShiTist
-> - Rab_q
