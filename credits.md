@@ -10,6 +10,7 @@
 
 Especial Thanks to:
 
+- JJCIA689  - Best advisor i could ask for!
 - DevilWolf - most of simplyprivate's ideas came from this guy
 - Isis      - ✨ui master✨
 - storm     - this project would be dead by now if this guy didn't apear in my life
