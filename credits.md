@@ -7,9 +7,11 @@
  | Abby      | erica.zy   | storm       | DevilWolf        |
  | storm     | ShiTist    |             | Low_             |
  | Isis      |            |             | Dede07           |
+ | Peixe     |            |             |                  |
+ 
 
 Especial Thanks to:
-
+- Peixe     - He didn't do that much but his presence helped a lot 💖
 - JJCIA689  - Best advisor i could ask for!
 - DevilWolf - most of simplyprivate's ideas came from this guy
 - Isis      - ✨ui master✨
