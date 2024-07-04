@@ -6,7 +6,7 @@
  | DevilWolf | Dhummy     | Dhummy      | Abby             |
  | Abby      | erica.zy   | storm       | DevilWolf        |
  | storm     | ShiTist    |             | Low_             |
- | Isis      |            |             | Dede07           |
+ | Isis      | Peixe      |             | Dede07           |
  | Peixe     |            |             |                  |
  
 
