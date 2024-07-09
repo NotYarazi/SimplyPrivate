@@ -10,6 +10,8 @@ but before you install you have to read ["Eula.md"](https://github.com/NotYarazi
 
 
 
+This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International License. For more details, see the [LICENSE](./LICENSE) file.
+© TeamEra2024
 
 if you have any problem or ideas you can send an e-mail at "umaera.dev@gmail.com"
 --
