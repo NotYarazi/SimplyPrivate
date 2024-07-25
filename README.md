@@ -1,7 +1,7 @@
 ![326752108-5b04c371-6042-4845-aceb-1ff2f794964f(1)](https://github.com/NotYarazi/SimplyPrivate/assets/124608386/097f41d7-9004-4f26-8404-8d1680fca0c4)
 --
-## Download Count: +2400
-### Version 3.5 OF SIMPLYPRIVATE JUST CAME OUT! 
+## Download Count: +3200
+### Version 3.6 OF SIMPLYPRIVATE JUST CAME OUT! 
 but before you install you have to read ["Eula.md"](https://github.com/NotYarazi/SimplyPrivate/blob/all/EULA.md).
 
 ### How to download
