@@ -1,6 +1,6 @@
-![326752108-5b04c371-6042-4845-aceb-1ff2f794964f(1)](https://github.com/NotYarazi/SimplyPrivate/assets/124608386/097f41d7-9004-4f26-8404-8d1680fca0c4)
+![title_mainpage](https://github.com/user-attachments/assets/510b9e6f-7918-43dc-aa5a-6f02dc5383dd)
 --
-## Download Count: +4200
+## View Count: +9300 | Download Count: +4200 
 ### Version 3.6 OF SIMPLYPRIVATE JUST CAME OUT! 
 but before you install you have to read ["Eula.md"](https://github.com/NotYarazi/SimplyPrivate/blob/all/EULA.md).
 
@@ -15,3 +15,5 @@ This project is licensed under the Creative Commons Attribution-NonCommercial-No
 
 if you have any problem or ideas you can send an e-mail at "umaera.dev@gmail.com"
 --
+
+
