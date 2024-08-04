@@ -5,12 +5,14 @@
  | UmaEra    | UmaEra     | UmaEra      | UmaEra           |
  | DevilWolf | Dhummy     | Dhummy      | Abby             |
  | Abby      | erica.zy   | storm       | DevilWolf        |
- | storm     | ShiTist    |             | Low_             |
+ | storm     | ShiTist    | Insane      | Low_             |
  | Isis      | Peixe      |             | Dede07           |
- | Peixe     |            |             |                  |
+ | Peixe     | Insane     |             | Insane           |
+ | Insane    |            |             |                  |
  
 
 Especial Thanks to:
+- Insane    - She apeared out of nowhere, maybe heaven 💛
 - Peixe     - He didn't do that much but his presence helped a lot 💖
 - JJCIA689  - Best advisor i could ask for!
 - DevilWolf - most of simplyprivate's ideas came from this guy
