@@ -3,13 +3,7 @@
 ## View Count: +9300 | Download Count: +4200 
 ### Version 3.6 OF SIMPLYPRIVATE JUST CAME OUT! 
 but before you install you have to read ["Eula.md"](https://github.com/NotYarazi/SimplyPrivate/blob/all/EULA.md).
-
-### How to download
-![ftudqsr](https://github.com/NotYarazi/SimplyPrivate/assets/124608386/37d7083b-c4b5-4e67-adb8-f54244f858ae)
-
-
-
-
+-
 This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International License. For more details, see the [LICENSE](./LICENSE) file.
 © TeamEra2024
 
