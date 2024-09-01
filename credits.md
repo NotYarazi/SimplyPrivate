@@ -9,8 +9,9 @@
  | Isis      | Peixe      |             | Dede07           |
  | Peixe     | Insane     |             | Insane           |
  | Insane    |            |             |                  |
- 
 
+ [TeamEra/Credits](https://umaera.github.io/asp/credits.html)
+ -
 Especial Thanks to:
 - Insane    - She apeared out of nowhere, maybe heaven 💛
 - Peixe     - He didn't do that much but his presence helped a lot 💖
