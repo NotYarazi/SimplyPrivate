@@ -27,7 +27,7 @@
 
 5 - Contacto
 
->Se tiver alguma dúvida sobre este acordo, entre em contacto connosco através do nosso e-mail "umaera.dev@gmail.com".
+>Se tiver alguma dúvida sobre este acordo, entre em contacto connosco através do nosso e-mail "azayraTeam@outlook.com".
 
 
-[Editado a: 13 de janeiro 2025 - 01h22am]
+[Editado a: 03 de março 2025 - 06h22pm]
