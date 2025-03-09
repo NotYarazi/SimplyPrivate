@@ -30,4 +30,4 @@
 >Se tiver alguma dúvida sobre este acordo, entre em contacto connosco através do nosso e-mail "azayraTeam@outlook.com".
 
 
-[Editado a: 03 de março 2025 - 06h22pm]
+[Editado a: 09 de março 2025 - 06h22pm]
