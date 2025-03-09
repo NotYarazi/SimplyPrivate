@@ -23,6 +23,6 @@
 
 5-Contact
 
->If you have any questions about this agreement, please contact us through our e-mail "umaera.dev@gmail.com".
+>If you have any questions about this agreement, please contact us through our e-mail "azayraTeam@outlook.com".
 
-[Last edited: 13th january 2025 - 01h20am]
+[Last edited: 09th march 2025 - 06h22pm]
