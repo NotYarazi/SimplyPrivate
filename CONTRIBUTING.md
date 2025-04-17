@@ -6,16 +6,15 @@ Please note that this project is **NOT** open-source, but we highly appreciate y
 
 ## How to Contribute
 
-- [Report Problems (Bugs)](https://github.com/NotYarazi/SimplyPrivate/discussions/categories/bug-report): Please report any problems you encounter.
-- Suggest ideas for the next update [here](https://github.com/NotYarazi/SimplyPrivate/discussions/categories/ideas).
-- If you wish to communicate with the creator, [click here](https://github.com/NotYarazi/SimplyPrivate/discussions/categories/communication).
+- Report Problems (Bugs): Please report any problems **IN THE E-MAIL BELOW** you encounter.
+- Suggest ideas for the next update: **IN THE E-MAIL BELOW OR DISCORD SERVER**.
+- If you wish to communicate with the creator, go to [my profile](https://github.com/notyarazi).
 
 ## Communication
 
 To contact the creator:
-- you can send a message on [Discord](discord.com/channels/@me) with the username: umaera or umaera#0.
-- you can send a message on [Discussions](https://github.com/NotYarazi/SimplyPrivate/discussions/categories/communication).
-- you can send an e-mail "umaera.dev@gmail.com".
+- you can send a message on [Discord](https://discord.gg/XjvVs2RHqH) with the username: @umaera or @dhummy
+- you can send an e-mail "azayraTeam@outlook.com".
 
 ## License
 
