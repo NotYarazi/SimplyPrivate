@@ -1,3 +1,6 @@
+## 📰 NEWS 26.june 01:50h
+### The project is officially on pause. Undetermined time.
+
 ## 📰 NEWS 17.april 08:03h
 ### HERE WE ARE AGAIN, one year later, i'm probably going to forget this soon but i'll leave there the message: There is big stuff prepared for simplyprivate, even if we are working on something else, we have a special update in our pockets.
 
