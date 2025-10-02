@@ -1,3 +1,6 @@
+## 📰 NEWS 02.october 08:56h
+### The project is still on pause, but it's ownership was given from "TeamEra/Azayra" to "Froggies". Froggies: UmaEra, Dhummy & Zeva (aka: erica)
+
 ## 📰 NEWS 26.june 01:50h
 ### The project is officially on pause. Undetermined time.
 
