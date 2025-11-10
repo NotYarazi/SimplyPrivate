@@ -25,4 +25,4 @@ currently being supported with security updates.
 The first versions of SimplyPrivate is very old and outdated. It is a significant risk to run this browser on your PC because it lacks the minimum recommended security measures, it can become vulnerable if used on public networks or when accessing malicious websites and many websites may be unavailable.
 
 ## Reporting a Vulnerability
-To report a vurnerability or a bug send an e-mail to "azayraTeam@outlook.com"
+To report a vurnerability or a bug send an e-mail to "umaera.dev@gmail.com" (temporary e-mail).
