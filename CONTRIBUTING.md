@@ -1,4 +1,4 @@
-# 🌿Contributing to [SimplyPrivate]🌿
+# Contributing to [SimplyPrivate]
 
 Thank you for considering contributions to [SimplyPrivate]!
 
@@ -13,8 +13,8 @@ Please note that this project is **NOT** open-source, but we highly appreciate y
 ## Communication
 
 To contact the creator:
-- you can send a message on [Discord](https://discord.gg/XjvVs2RHqH) with the username: @umaera or @dhummy
-- you can send an e-mail "azayraTeam@outlook.com".
+- you can send a message on **Discord** (not working) with the username: @umaera or @dhummy
+- you can send an e-mail "umaera.dev@gmail.com" (temporary e-mail).
 
 ## License
 
