@@ -1,5 +1,5 @@
 ## 📰 NEWS 26.april (2026) 00:53h
-### The project oficially ended. Read "declaration.txt" to see the final words.
+### The project oficially ended. Read "[declaration.txt](https://github.com/NotYarazi/SimplyPrivate/blob/all/declaration.txt)" to see the final words.
 
 ## 📰 NEWS 10.november (2024) 00:53h
 ### The project will un-pause soon. Expect a new BIG update!!!111!!
