@@ -4,7 +4,7 @@
 </div>
 <div align="center"><h3>-## Project ended: 26 april, 2026 ##-</h3></div>
 <div align="center">
-<h3> <a href="https://umaera.github.io/resources/spb/changelog/" target="_blank">[See all versions]</a> -@- <a href="https://github.com/NotYarazi/SimplyPrivate/releases/latest" target="_blank">[see latest version]</a> </h3> 
+<h3> <a href="https://umaera.github.io/resources/spb/changelog/" target="_blank">[See all versions]</a> -@- <a href="https://github.com/NotYarazi/SimplyPrivate/blob/all/declaration.txt" target="_blank">[declaration death message]</a> </h3> 
 <h4> ⚠: but before you install you have to read <a href="./EULA-EN.md" target="_blank">Eula.md</a> (it takes effect when you use the software)</h4>
 </div>
 <div align="center"><h1></h1></div>
